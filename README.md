@@ -19,7 +19,7 @@ This project analyzes hospital performance and patient feedback across the Unite
 - Investigated readmission rates & mortality score patterns
 
 ## 📈 Tools & Skills
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SQL` `Statistics` `Data Visualization`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Statistics` `Data Visualization`
 
 ## How to run
 https://github.com/vidyaspillai/HealthData-IQ.git
